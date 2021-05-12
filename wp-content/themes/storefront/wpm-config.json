@@ -1,0 +1,8 @@
+{
+    "post_types": {
+        "post": {},
+        "nav_menu_item": {},
+        "page": {},
+        "product": {}
+    }
+}
